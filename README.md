@@ -60,3 +60,5 @@
 If you cannot see any auto-grading workflows on the [Actions](../../actions) page, learn how to fix it in [this repo](https://github.com/microverse-students/autograding-troubles-js/blob/main/README.md).
 
 This code is from Evans Nyamekye: https://github.com/evansnyamekye
+
+In the previous lessons, i got an introduction to the code review process and i upgraded the HTML and CSS skills.
